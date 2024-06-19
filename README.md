@@ -11,4 +11,10 @@
   2. Context
   3. Personalization
   4. Query-Specific
-  5. 
+
+### Search Engines
+1. Indexing (ingesst content)
+2. Matching (content matching)
+3. Ranking (sort content)
+
+   
